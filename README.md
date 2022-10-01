@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewTtofi
 - 👀 I’m interested in DevOps and Cloud Computing  
-- 📡 I’m currently learning and preparing for PCEP-30-02 (Python Entry Level), CKA (Certified Kubernetes Administrator), AWS SysOps certifications
+- 📡 I’m currently learning and preparing for PCEP-30-02 (Python Entry Level), CKA (Certified Kubernetes Administrator)
 - 🖥️ Very Interested in Terraform (Infrastructure as Code), General Knowledge of Linux OS, Kubernetes and Python
 - 📫 How to reach me andreas@ttofi.com
 - 🦾 Always like to hustle 🦾
