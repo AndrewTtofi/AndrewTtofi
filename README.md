@@ -6,6 +6,3 @@
 - 🦾 Always like to hustle 🦾
 - 🤖 Automation is fun 
 - 📜 [Credly badges](https://www.credly.com/users/andreas-ttofi/badges)
-
-
-![](https://github-readme-stats.vercel.app/api?username=andrewttofi&theme=dark)
