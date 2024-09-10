@@ -6,4 +6,4 @@
 - 🦾 Always like to hustle 🦾
 - 🤖 Automation is fun 🤖
 - 📜 [Credly badges](https://www.credly.com/users/andreas-ttofi/badges)
-- Current Goal: Get the golden jacket from AWS
+- Current Goal: Get the golden jacket from AWS and become an [AWS Ambassador](https://aws.amazon.com/partners/ambassadors)
