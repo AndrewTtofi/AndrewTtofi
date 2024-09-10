@@ -4,5 +4,6 @@
 - 🖥️ Excited about Infrastructure as Code, General Knowledge of Linux, Kubernetes and Python
 - 📫 [Reach me](https://www.linkedin.com/in/andreas-ttofi/)
 - 🦾 Always like to hustle 🦾
-- 🤖 Automation is fun 
+- 🤖 Automation is fun 🤖
 - 📜 [Credly badges](https://www.credly.com/users/andreas-ttofi/badges)
+- Current Goal: Get the golden jacket from AWS
